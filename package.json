@@ -1,0 +1,17 @@
+{
+  "name": "unilist",
+  "version": "1.0.0",
+  "description": "playlist transform platform",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon App.js"
+  },
+  "author": "Jacob Steiner",
+  "license": "ISC",
+  "dependencies": {
+    "google-auth-library": "^5.7.0",
+    "googleapis": "^46.0.0",
+    "nodemon": "^2.0.2"
+  }
+}
